@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://arunss1997.github.io/csb-dmlxv1/static/css/main.f6ce0825.chunk.css",
+    "main.js": "https://arunss1997.github.io/csb-dmlxv1/static/js/main.f3425c59.chunk.js",
+    "main.js.map": "https://arunss1997.github.io/csb-dmlxv1/static/js/main.f3425c59.chunk.js.map",
+    "runtime-main.js": "https://arunss1997.github.io/csb-dmlxv1/static/js/runtime-main.f6d27ac4.js",
+    "runtime-main.js.map": "https://arunss1997.github.io/csb-dmlxv1/static/js/runtime-main.f6d27ac4.js.map",
+    "static/js/2.4f7ad81f.chunk.js": "https://arunss1997.github.io/csb-dmlxv1/static/js/2.4f7ad81f.chunk.js",
+    "static/js/2.4f7ad81f.chunk.js.map": "https://arunss1997.github.io/csb-dmlxv1/static/js/2.4f7ad81f.chunk.js.map",
+    "static/js/3.90f834ab.chunk.js": "https://arunss1997.github.io/csb-dmlxv1/static/js/3.90f834ab.chunk.js",
+    "static/js/3.90f834ab.chunk.js.map": "https://arunss1997.github.io/csb-dmlxv1/static/js/3.90f834ab.chunk.js.map",
+    "index.html": "https://arunss1997.github.io/csb-dmlxv1/index.html",
+    "static/css/main.f6ce0825.chunk.css.map": "https://arunss1997.github.io/csb-dmlxv1/static/css/main.f6ce0825.chunk.css.map",
+    "static/js/2.4f7ad81f.chunk.js.LICENSE.txt": "https://arunss1997.github.io/csb-dmlxv1/static/js/2.4f7ad81f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6d27ac4.js",
+    "static/js/2.4f7ad81f.chunk.js",
+    "static/css/main.f6ce0825.chunk.css",
+    "static/js/main.f3425c59.chunk.js"
+  ]
+}
